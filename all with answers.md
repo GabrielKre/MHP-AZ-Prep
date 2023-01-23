@@ -1427,3 +1427,933 @@
 - [ ] No.
 
 *[⬆ Back to Top](#table-of-contents)*
+
+### From Azure Service Health, an administrator can view the health of all the services in an Azure environment.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### From Azure Service Health, an administrator can create a rule to be alerted if an Azure service fails.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### From Azure Service Health, an administrator can prevent a service failure.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You need to identify which blades in the Azure portal must be used to perform the following task: Monitor the health of Azure services.
+
+- [x] Monitor.
+- [ ] Subscriptions.
+- [ ] Marketplace.
+- [ ] Advisor.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You need to identify which blades in the Azure portal must be used to perform the following task: Browse available virtual machine images.
+
+- [ ] Monitor.
+- [ ] Subscriptions.
+- [x] Marketplace.
+- [ ] Advisor.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You need to identify which blades in the Azure portal must be used to perform the following task: View security recommendations.
+
+- [ ] Monitor.
+- [ ] Subscriptions.
+- [ ] Marketplace.
+- [x] Advisor.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Advisor can generate a list of Azure virtual machines that are protected by Azure Backup.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### If you implement the security recommendations provided by Azure Advisor, your company secure score will decrease.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### To maintain Microsoft support, you must implement the security recommendations provided by Azure Advisor within a period of 30 days.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### What can you use to automatically send an alert if an administrator stops an Azure virtual machine?
+
+- [ ] Azure Advisor.
+- [ ] Azure Service Health.
+- [x] Azure Monitor.
+- [ ] Azure Network Watcher.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. What are three possible solutions?
+
+- [x] Use Bash in Azure Cloud Shell.
+- [x] Use PowerShell in Azure Cloud Shell.
+- [ ] Use the PowerApps portal.
+- [ ] Use the Security & Compliance admin center.
+- [x] Use the Azure portal.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Advisor provides recommendations on how to improve the security of an Azure Active Directory (Azure AD) environment.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Advisor provides recommendations on how to reduce the cost of running Azure virtual machines.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Advisor provides recommendations on how to configure the network settings on Azure virtual machines.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Several support engineers plan to manage Azure by using the Computer1-Windows 10. You need to identify which Azure management tools can be used.
+
+- [ ] The Azure CLI and the Azure portal.
+- [ ] The Azure portal and Azure PowerShell.
+- [ ] The Azure CLI and Azure PowerShell.
+- [x] The Azure CLI, the Azure portal, and Azure PowerShell.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Several support engineers plan to manage Azure by using the Computer2-Ubuntu. You need to identify which Azure management tools can be used.
+
+- [ ] The Azure CLI and the Azure portal.
+- [ ] The Azure portal and Azure PowerShell.
+- [ ] The Azure CLI and Azure PowerShell.
+- [x] The Azure CLI, the Azure portal, and Azure PowerShell.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Several support engineers plan to manage Azure by using the Computer3-MacOS Mojave. You need to identify which Azure management tools can be used.
+
+- [ ] The Azure CLI and the Azure portal.
+- [ ] The Azure portal and Azure PowerShell.
+- [ ] The Azure CLI and Azure PowerShell.
+- [x] The Azure CLI, the Azure portal, and Azure PowerShell.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Which three computers can run the script?
+
+- [x] A computer that runs macOS and has PowerShell Core 6.0 installed.
+- [x] A computer that runs Windows 10 and has the Azure PowerShell module installed.
+- [ ] A computer that runs Linux and has Terminal installed.
+- [ ] A computer that runs Linux and has the Azure CLI tools installed.
+- [x] A computer that runs Chrome OS and uses Azure Cloud Shell.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A Network Security Group (NSG) will encrypt all the network traffic sent from Azure to the Internet.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure virtual machines that run Windows Server 2016 can encrypt network traffic sent to the Internet.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Security Center can monitor Azure resources and on-premises resources.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### All Azure Security Center features are free.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### From Azure Security Center, you can download a Regulatory Compliance report.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Enforce Azure Multi-Factor Authentication (MFA) based on a condition.
+
+- [ ] Azure Monitor.
+- [ ] Azure Security Center.
+- [x] Azure Active Directory (Azure AD) MFA.
+- [ ] Azure Advanced Threat Protection (ATP).
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. What are two possible solutions?
+
+- [ ] Modify an Azure Traffic Manager profile.
+- [x] Modify a Network Security Group (NSG).
+- [ ] Modify a DDoS protection plan.
+- [x] Modify an Azure firewall.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can enable Just In Time (JIT) VM access by using [...].
+
+- [ ] Azure Bastion.
+- [ ] Azure Firewall.
+- [ ] Azure Front Door.
+- [x] Azure Security Center.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can associate a Network Security Group (NSG) to a virtual network subnet.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can associate a Network Security Group (NSG) to a virtual network.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can associate a Network Security Group (NSG) to a network interface.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### After you create a virtual machine, you need to modify to allow connections to TCP port 8080 on the virtual machine [...].
+
+- [x] Network Security Group (NSG).
+- [ ] Virtual network gateway.
+- [ ] Virtual network.
+- [ ] Eoute table.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can create custom Azure roles to control access to resources.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A user account can be assigned to multiple Azure roles.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### From [...] you can view which user turned off a specific virtual machine during the last 14 days.
+
+- [ ] Azure Access Control IAM.
+- [ ] Azure Event Hubs.
+- [x] Azure Activity Log.
+- [ ] Azure Service Health.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You have an Azure virtual network named VNET1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1 [...].
+
+- [ ] Is deleted automatically.
+- [ ] Is moved automatically to another resource group.
+- [x] Continues to function normally.
+- [ ] Is now a read-only object.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### An Azure Policy initiative definition is a [...].
+
+- [x] Collection of policy definitions.
+- [ ] Collection of Azure Policy definition assignments.
+- [ ] Group of Azure Blueprints definitions.
+- [ ] Group of role-based access control (RBAC) role assignments.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### [...] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.
+
+- [ ] Resource groups.
+- [ ] Management groups.
+- [x] Azure policies.
+- [ ] Azure App Service plans.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### General Data Protection Regulation (GDPR) defines data protection and privacy rules.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure can be used to build a General Data Protection Requlation (GDPR)-compliant infrastructure.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can add an Azure Resource Manager template to an Azure blueprint.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can use Azure Blueprints to grant permissions to a resource.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure China is operated by Microsoft.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Government is operated by Microsoft.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Government is available only to US government agencies and their partners.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### An Azure resource can have multiple Delete locks.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### An Azure resource inherits locks from its resource group.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### If an Azure resource has a Read-only lock, you can add a Delete lock to the resource.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Authorization to access Azure resources can be provided only to Azure Active Directory (Azure AD) users from your tennant.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Identities stored in Azure Active Directory (Azure AD), third-party cloud services, and on-premises Active Directory can be used to access Azure resources.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure has built-in authentication and authorization services that provide secure access to Azure resources.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Identities stored in an on-premises Active Directory can be synchronized to Azure Active Directory (Azure AD).
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can view your company regulatory compliance report from [...].
+
+- [ ] Azure Advisor.
+- [ ] Azure Analysis Services.
+- [ ] Azure Monitor.
+- [x] Azure Security Center.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your company has an Azure subscription that contains resources in several regions. You need to ensure that administrators can only create resources in those regions. What should you use?
+
+- [ ] A read-only lock.
+- [x] An Azure policy.
+- [ ] A management group.
+- [ ] A reservation.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Active Directory (Azure AD) requires the implementation of domain controllers on Azure virtual machines.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Active Directory (Azure AD) provides authentication services for resources hosted in Azure and Microsoft 365.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Each user account in Azure Active Directory (Azure AD) can be assigned only one license.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### To implement an Azure Multi-Factor Authentication (MFA) solution, you must sync on-premises identities to the cloud.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Two valid methods for Azure Multi-Factor Authentication (MFA) are picture identification and a passport number.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can configure the Azure Active Directory (Azure AD) activity logs to appear in Azure Monitor.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### From Azure Monitor, you can monitor resources across multiple Azure subscriptions.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### From Azure Monitor, you can create alerts.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You create a resource group named RG1 in Azure Resource Manager. You need to prevent the accidental deletion of the resources in RG1. Which setting should you use?
+
+- [ ] Quickstart.
+- [ ] Resource costs.
+- [ ] Deployments.
+- [ ] Policies.
+- [ ] Properties.
+- [x] Locks.
+- [ ] Automation script.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You have a resource group named RG1. You need to prevent the creation of virtual machines only in RG1. The solution must ensure that other objects can be created in RG1. What should you use?
+
+- [ ] A lock.
+- [ ] An Azure role.
+- [ ] A tag.
+- [x] An Azure policy.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You have an Azure subscription and 100 Windows 10 devices. You need to ensure that only users whose devices have the latest security patches installed can access Azure Active Directory (Azure AD)-integrated applications. What should you implement?
+
+- [x] A conditional access policy.
+- [ ] Azure Bastion.
+- [ ] Azure Firewall.
+- [ ] Azure Policy.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### [...] enables users to authenticate to multiple applications by using single sign-on (SSO).
+
+- [ ] Application security groups in Azure Azure.
+- [x] Active Directory (Azure AD).
+- [ ] Azure Key Vault.
+- [ ] Azure Security Center.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will [...].
+
+- [ ] Migrate the resource to another subscription.
+- [x] Credit your Azure account.
+- [ ] Send you a coupon code that you can redeem for Azure credits.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### If your company uses an Azure free account, you will only be able to use a subset of Azure services.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+###  All Azure free accounts expire after a specific period.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can create up to 10 Azure free accounts by using the same Microsoft account.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### All Azure services in private preview must be accessed by using a separate Azure portal.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure services in public preview can be used in production environments.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure services in public preview are subject to a Service Level Agreement (SLA).
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A user who is assigned the Owner role can transfer ownership of an Azure subscription.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### With Azure Reservations, you pay less for virtual machines than with pay as-you-go pricing.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Two Azure virtual machines that use the B25 size have the same monthly costs.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### When an Azure virtual machine is stopped, you continue to pay storage costs for the virtual machine.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### By creating additional resource groups in an Azure subscription, additional costs are incurred.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### With a consumption-based plan, you pay a fixed rate for all data sent to or from virtual machines hosted in the cloud.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### With a consumption-based plan, you reduce overall costs by paying only for extra capacity when it is required.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Serverless computing is an example of a consumption-based plan.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### The cost of Azure resources can vary between regions.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### An Azure Reservation is used to reserve server capacity at a specific data center.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### When using an Azure ExpressRoute connection, inbound data traffic from an on-premises network to Azure is always free.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Outbound data traffic from Azure to an on-premises network is always free.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Data traffic between Azure services within the same Azure network is always free.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Azure Active Directory (Azure AD). Five groups in Azure AD. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?
+
+- [ ] The network interfaces.
+- [x] The public IP addresses.
+- [ ] The groups.
+- [ ] The user accounts.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### If an Azure virtual machine has a status of Stopped (deallocated), you will continue to pay for.
+
+- [ ] Compute capacity.
+- [ ] I/O operations.
+- [ ] Networking.
+- [x] Storage.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Storing 1 TB of data in Azure Blob storage will always cost the same, regardless of the Azure region in which the data is located.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### When you use a general-purpose v2 Azure Storage account, you are only charged for the amount of data that is stored. All read and write operations are free.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### An Azure resource group contains multiple Azure subscriptions.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Data that is stored in the Archive access tier of an Azure Storage account [...].
+
+- [ ] Can be accessed at any time by using azcopy.exe.
+- [ ] Can only be read by using Azure Backup.
+- [x] Must be rehydrated before the data can be accessed.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines [to the same Azure region].
+
+- [ ] No change is needed.
+- [ ] By using the same Azure Resource Manager template.
+- [x] To the same resource group.
+- [ ] To the same availability zone.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### The Microsoft Service Trust Portal can be accessed by using a Microsoft cloud services account.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that supports the planned migration. Solution: You create an Azure App Service and Azure Storage accounts. Does this meet the goal?
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A company can extend the computing resources of its internal network by using the public cloud.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You have several virtual machines in an Azure subscription. You create a new subscription. [The virtual machines cannot be moved to the new subscription].
+
+- [ ] No change is needed.
+- [x] The virtual machines can be moved to the new subscription.
+- [ ] The virtual machines can be moved to the new subscription only if they are all in the same resource group.
+- [ ] The virtual machines can be moved to the new subscription only if they run Windows Server 2016.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### [...] is the process of verifying a user credentials.
+
+- [ ] Authorization.
+- [x] Authentication.
+- [ ] Federation.
+- [ ] Ticketing.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### If a resource group named RG1 has a delete lock, [...] can delete RG1.
+
+- [ ] Only a member of the global administrators group.
+- [x] The delete lock must be removed before an administrator.
+- [ ] An Azure policy must be modified before an administrator.
+- [ ] An Azure tag must be added before an administrator.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A Platform as a Service (PaaS) solution that hosts web apps in Azure provides full control of the operating systems that host applications.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A Platform as a Service (PaaS) solution that hosts web apps in Azure can be provided with additional memory by changing the pricing tier.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A Platform as a Service (PaaS) solution that hosts web apps in Azure can be configured to automatically scale the number of instances based on demand.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### [Azure policies provide] a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.
+
+- [ ] No change is needed.
+- [ ] Resource groups provide.
+- [x] Azure Resource Manager provides.
+- [ ] Management groups provide.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### All the Azure resources deployed to a single resource group must share the same Azure region.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### When you are implementing a Software as a Service (SaaS) solution, you are responsible for [configuring high availability].
+
+- [ ] No change is needed.
+- [ ] Defining scalability rules.
+- [ ] Installing the SaaS solution.
+- [x] Configuring the SaaS solution.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure provides flexibility between capital expenditure (CapEx) and operational exponditure (OpEx).
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You plan to create an Azure virtual machine. You need to identify which storage service is optimized for storing unstructured data. What should you identify?
+
+- [x] Blobs (REST-based object storage for unstructured data).
+- [ ] Files (File shares that use the standard rd SMB 3.0 protocol).
+- [ ] Tables (Tabular data storage).
+- [ ] Queues (Effectively scale apps according to traffic).
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### To implement an Azure Multi-Factor Authentication (MFA) solution, you must deploy a federation solution or sync on-premises identities to the cloud.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Multi-Factor Authentication (MFA) can be required for administrative and non administrative user accounts.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### You need to view a list of planned maintenance events that can affect the availability of an Azure subscription. Which blade should you use from the Azure portal?
+
+- [ ] Dashboard.
+- [ ] All resources.
+- [ ] Resource groups.
+- [ ] App Services.
+- [ ] Function Apps.
+- [ ] SQL databases.
+- [ ] Azure Cosmos DB.
+- [ ] Virtual machines.
+- [ ] Load balancers.
+- [ ] Storage accounts.
+- [ ] Virtual networks.
+- [ ] Azure Active Directory.
+- [ ] Monitor.
+- [ ] Advisor.
+- [ ] Security Center.
+- [x] Help + support.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure Pay-As-You-Go pricing is an example of CapEx.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Deploying your own datacenter is an example of CapEx.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### A private cloud must be disconnected from the internet.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Azure resources can only access other resources in the same resource group.
+
+- [ ] Yes.
+- [x] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### If you delete a resource group, all the resources in the resource group will be deleted.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Data that is copied to an Azure Storage account is maintained automatically in at least three copies.
+
+- [x] Yes.
+- [ ] No.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: Backing up application data. Replacing failed server hardware. Managing physical server security. Updating server operating systems. Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration. Which two responsibilities should you identify? Each correct answer presents a complete solution.
+
+- [x] Replacing failed server hardware.
+- [ ] Backing up application data.
+- [x] Managing physical server security.
+- [ ] Updating server operating systems.
+- [ ] Managing permissions to shared documents.
+
+*[⬆ Back to Top](#table-of-contents)*
+
+### [Authorization] is the process of verifying a user credentials.
+
+- [ ] No change is needed.
+- [x] Authentication.
+- [ ] Federation.
+- [ ] Ticketing.
+
+*[⬆ Back to Top](#table-of-contents)*
